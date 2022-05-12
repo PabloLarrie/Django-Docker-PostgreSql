@@ -1,0 +1,6 @@
+.idea
+.DS_store
+__pycache__
+.python_history
+.pyc
+data

@@ -1,0 +1,12 @@
+black
+django
+django-cors-headers
+django-extensions
+django-filter
+drf-nested-routers
+djangorestframework
+factory-boy
+pep8
+pylint
+pytest
+pytest-django
